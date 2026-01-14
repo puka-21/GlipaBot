@@ -128,7 +128,6 @@ GlipaBot/
 ├── GlipaBot.py              # Main bot code
 ├── word_base.json           # Message templates
 ├── README.md                # This file
-├── QUICKSTART.txt           # Detailed setup guide
 ├── requirements.txt         # Python dependencies
 ├── .gitignore               # Git ignore rules
 ├── .env.example             # Environment template
