@@ -1,0 +1,43 @@
+{
+  "greetings": [
+    "Hey everyone!",
+    "Yo!",
+    "Check this out!",
+    "Look what I found!",
+    "Sharing some vibes:",
+    "Fresh content incoming!",
+    "Here's something cool:",
+    "Don't miss this!",
+    "Time for some entertainment!",
+    "Your daily dose of awesomeness:"
+  ],
+  "descriptive_words": [
+    "amazing",
+    "incredible",
+    "fantastic",
+    "awesome",
+    "stunning",
+    "hilarious",
+    "brilliant",
+    "wonderful",
+    "spectacular",
+    "excellent",
+    "mind-blowing",
+    "epic",
+    "legendary",
+    "insane",
+    "perfect"
+  ],
+  "templates": [
+    "{greeting} This {adjective} content will brighten your day!",
+    "{greeting} An {adjective} find from the archives!",
+    "{greeting} Feast your eyes on this {adjective} piece!",
+    "Presenting an {adjective} gem: {greeting}",
+    "{greeting} Prepare yourself for something {adjective}!",
+    "Oh snap, check out this {adjective} discovery!",
+    "{greeting} Your timeline needed this {adjective} content!",
+    "Surprise! Here's something {adjective}!",
+    "{greeting} This one's absolutely {adjective}!",
+    "{greeting} Let me share this {adjective} moment with you!"
+  ]
+}
